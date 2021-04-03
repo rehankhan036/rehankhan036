@@ -20,8 +20,7 @@
 
 </div>
 
-- 🙋‍♂️ Intern at [Mercurial Minds][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
+- 🙋‍♂️ Intern at [Mercurial Minds]
 - 👉 The tech I'm interested in Android, Kotlin, AR, RPA, and Web
 - 👉 I'm learning Flutter, Automations.
 - 🎮 PUBG Mobile Multiplayer
@@ -35,6 +34,6 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rpa/rpa.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/RPA/RPA.png"></code>
 
 
