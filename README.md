@@ -20,7 +20,7 @@
 
 </div>
 
-- 🙋‍♂️ Intern at [Mercurial Minds]
+- 🙋‍♂️ Product Manager at [Autosphere]
 - 👉 I'm interested in Android, Kotlin, AR, RPA, and Web.
 - 👉 I'm learning Flutter, Automations.
 - 🎮 PUBG Mobile Multiplayer
