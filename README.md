@@ -20,10 +20,8 @@
 
 </div>
 
-- 🙋‍♂️ Product Manager at [Autosphere]
-- 👉 I'm interested in Android, Kotlin, AR, RPA, and Web.
-- 👉 I'm learning Flutter, Automations.
-- 🎮 PUBG Mobile Multiplayer
+- 🙋‍♂️ Product Owner at [DPL]
+- 👉 I'm interested in React Native, React JS, RPA, and AWS.
 
 ### Languages & Tools
 
